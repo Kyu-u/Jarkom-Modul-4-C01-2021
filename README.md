@@ -3,7 +3,7 @@
 ## Anggota Kelompok C01
 | Nama | NRP |
 | ------------- | ------------- |
-| M| 05111940000  |
+| Muhammad Arifiansyah| 05111940000027  |
 | Melanchthon Bonifacio Butarbutar  | 05111940000097  |
 | Muhammad Valda Rizky Nur FIrdaus | 05111940000115  |
 
